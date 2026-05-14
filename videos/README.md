@@ -7,4 +7,5 @@
 - 3 - 🎬 [ReaX4：-The-Two-Sides-of-the-X-Men](https://github.com/arya133red/Ourtube-arya/tree/main/videos/ReaX4%EF%BC%9A-The-Two-Sides-of-the-X-Men)
 - 4 - 🎬 [ReaX5：-Juggernaut-is-STILL-Magic!](https://github.com/arya133red/Ourtube-arya/tree/main/videos/ReaX5%EF%BC%9A-Juggernaut-is-STILL-Magic%21)
 - 5 - 🎬 [ReaX6：-The-Wolverine-Story-You-NEVER-(always)-EXPECTED!](https://github.com/arya133red/Ourtube-arya/tree/main/videos/ReaX6%EF%BC%9A-The-Wolverine-Story-You-NEVER-%28always%29-EXPECTED%21)
-- 6 - 🎬 [Reac10-#3：-Ben-10's-Got-Bounty-Hunters？？](https://github.com/arya133red/Ourtube-arya/tree/main/videos/Reac10-%233%EF%BC%9A-Ben-10%27s-Got-Bounty-Hunters%EF%BC%9F%EF%BC%9F)
+- 6 - 🎬 [ReaX7：-Magneto's-Plan-REVEALED](https://github.com/arya133red/Ourtube-arya/tree/main/videos/ReaX7%EF%BC%9A-Magneto%27s-Plan-REVEALED)
+- 7 - 🎬 [Reac10-#3：-Ben-10's-Got-Bounty-Hunters？？](https://github.com/arya133red/Ourtube-arya/tree/main/videos/Reac10-%233%EF%BC%9A-Ben-10%27s-Got-Bounty-Hunters%EF%BC%9F%EF%BC%9F)
